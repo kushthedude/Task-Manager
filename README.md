@@ -16,6 +16,8 @@
     pip install -r requirements.txt
     python app.py
 ```
+
 - TADA , Your app is ready to be deployed , open `localhost:5000` or `127.0.0.1:5000` on your favourite browser except IE (You know speed matters) to play with this little app.
+- You can also use `Gunicorn` to play around with the app just use `gunicorn wsgi:app`.
 
 
