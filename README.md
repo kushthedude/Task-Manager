@@ -1,4 +1,7 @@
 # Task-Manager
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/28364e766dc545598f3fe1b83e90984b)](https://app.codacy.com/app/kushthedude/Task-Manager?utm_source=github.com&utm_medium=referral&utm_content=kushthedude/Task-Manager&utm_campaign=Badge_Grade_Dashboard)
+
 - A Multi-Project Task Manager created in flask, for an internship assignment.
 - Code is well commented and all the css has been acquired from bootstrap.
 - Easy to use and well to play around.
