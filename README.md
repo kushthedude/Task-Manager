@@ -1,6 +1,7 @@
 # Task-Manager
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1ac554483fac462797ffa5a8b9adf2fa?style=flat-square)](https://app.codacy.com/app/kushthedude/Task-Manager?utm_source=github.com&utm_medium=referral&utm_content=kushthedude/Task-Manager&utm_campaign=Badge_Grade_Dashboard)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=kushthedude/Task-Manager)](https://dependabot.com)
 
 - A Multi-Project Task Manager created in flask, for an internship assignment.
 - Code is well commented and all the css has been acquired from bootstrap.
