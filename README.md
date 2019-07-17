@@ -26,6 +26,6 @@
 
 
 ## Contributors
-- Ansh Shrivastava(https://github.com) (Co-Author)
+- Ansh Shrivastava (Co-Author)
 
 
