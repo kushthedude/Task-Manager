@@ -25,3 +25,7 @@
 - You can also use `Gunicorn` to play around with the app just use `gunicorn wsgi:app`.
 
 
+## Contributors
+- Ansh Shrivastava(https://github.com) (Co-Author)
+
+
