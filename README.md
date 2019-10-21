@@ -26,6 +26,6 @@
 
 
 ## Contributors
-- Ansh Shrivastava (Co-Author)
+Made with :heart: by [Kush](github.com/kushthedude)
 
 
