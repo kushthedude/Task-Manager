@@ -26,6 +26,6 @@
 
 
 ## Contributors
-Made with :heart: by [Kush](github.com/kushthedude)
+Made with :heart: by [Kush](http://github.com/kushthedude)
 
 
