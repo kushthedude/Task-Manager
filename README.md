@@ -27,5 +27,7 @@
 
 ## Contributors
 Made with :heart: by [Kush](github.com/kushthedude)
+Made with :heart: by [Vijay](github.com/vijcheru)
+
 
 
